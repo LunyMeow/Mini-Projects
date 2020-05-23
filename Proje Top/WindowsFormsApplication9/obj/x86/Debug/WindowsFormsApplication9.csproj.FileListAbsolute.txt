@@ -1,0 +1,34 @@
+c:\users\bedo\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+c:\users\bedo\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\bedo\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\bedo\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\bedo\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\bedo\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+c:\users\bedo\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\Bedo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Bedo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form2.resources
+D:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+D:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+D:\Proje Top\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+D:\Proje Top\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+D:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+D:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+D:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+D:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+F:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+F:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+F:\Proje Top\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+F:\Proje Top\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+F:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+F:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+F:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Proje Top\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+E:\FlaşYedek 2020-03\Proje Top\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
