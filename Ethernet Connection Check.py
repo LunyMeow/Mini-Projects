@@ -6,7 +6,6 @@ except:
     import http.client as httplib
     print("Import hatası \nİkinci seçenek denendi Başarılı")
 hata=int(0)
-denemesayısı=0
 while 1:
     def checkInternetHttplib(url="www.google.com", timeout=3):
         try:
@@ -37,8 +36,6 @@ while 1:
                 print("Ses çalınamadı")
             
     print()
-    denemesayısı+=1
-    print("Deneme :" , denemesayısı)
     checkInternetHttplib()
     time.sleep(5)
 input()
