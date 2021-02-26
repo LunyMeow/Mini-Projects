@@ -120,7 +120,7 @@ def sesmenüsü(kod):
         logyazdır("ses 0",True)
         return ""
     
-    return "Ses konusunda yapacağım şeyi anlamadım"                     #Bu sürekli yazılıyor
+    return "Ses konusunda yapacağım şeyi anlamadım"                    
 
 
 
