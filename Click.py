@@ -6,8 +6,8 @@ from win10toast import ToastNotifier
 
 toaster = ToastNotifier()
 
-print("Click \" to open autoclick")
-print("Click again \" to close autoclick")
+print("Hold \" to open autoclick")
+print("Hold again \" to close autoclick")
 
 aaa=False
 while True:  # making a loop
