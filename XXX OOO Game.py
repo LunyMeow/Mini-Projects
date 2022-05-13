@@ -179,6 +179,7 @@ def create_Buttons():
         s+=1
 
 def resetpoint():
+    global p1skor, p2skor
     p1skor=0
     p2skor=0
     global plyr1,plyr2
